@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscncrypt",
+        "uuid": 15884586,
+        "checksum": "itz5xp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
